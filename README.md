@@ -1,4 +1,4 @@
-# Onur Okcal — AI Systems Architect, Kayda AI
+# Onur Okcal — AI Systems Architect, KaydaAI
 
 I design and build behavior-first AI systems where memory, continuity,
 and safety boundaries are treated as first-class concerns.
